@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Blender",
+  "description": "Generate high-fidelity Midjourney or Bing Image Creator prompts by blending your personal photo with any Instagram video's visual style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
